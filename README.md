@@ -7,7 +7,7 @@
 <h3>Key Components:</h3>
 
 <ol>
-  <li>HTML:
+  <li><b>HTML:</b>
     <ul>
       <li>Structures the layout of the quote display.</li>
       <li>Contains elements like the quote text, author name, and buttons for generating new quotes or copying them.</li>

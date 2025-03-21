@@ -13,7 +13,7 @@
       <li>Contains elements like the quote text, author name, and buttons for generating new quotes or copying them.</li>
     </ul>
   </li>
-  <li>CSS:
+  <li><b>CSS:</b>
     <ul>
       <li>Styles the layout, making the quote card visually appealing.</li>
       <li>Ensures responsive design, so the website works well on all screen sizes.</li>

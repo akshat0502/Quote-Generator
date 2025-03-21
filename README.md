@@ -20,7 +20,7 @@
       <li>Adds animations or hover effects to buttons for a polished user experience.</li>
     </ul>
   </li>
-  <li>JavaScript:
+  <li><b>JavaScript:</b>
     <ul>
       <li>Handles the logic for generating and displaying quotes.</li>
       <li>Can fetch random quotes from a local array or external API.</li>
